@@ -1,2 +1,2 @@
 # learner
-project to 
+project to simplify collaboration with students
