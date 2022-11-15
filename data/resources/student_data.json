@@ -1,0 +1,10 @@
+{
+  "student": {
+    "name": "Pete",
+    "lessons": {
+      "planned": [],
+      "done": [],
+      "verified": []
+    }
+  }
+}
